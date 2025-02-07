@@ -1,0 +1,23 @@
+This work relies heavily on two open-source projects.
+
+### SAELens
+
+    @misc{bloom2024saetrainingcodebase,
+       title = {SAELens},
+       author = {Joseph Bloom, Curt Tigges and David Chanin},
+       year = {2024},
+       howpublished = {\url{https://github.com/jbloomAus/SAELens}},
+    }}
+
+SAELens has the [MIT](https://github.com/jbloomAus/SAELens#MIT-1-ov-file) license.
+
+### TransformerLens
+
+    @misc{nanda2022transformerlens,
+        title = {TransformerLens},
+        author = {Neel Nanda and Joseph Bloom},
+        year = {2022},
+        howpublished = {\url{https://github.com/TransformerLensOrg/TransformerLens}},
+    }
+
+TransformerLens has the [MIT](https://github.com/TransformerLensOrg/TransformerLens#MIT-1-ov-file) license.
